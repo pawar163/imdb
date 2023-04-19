@@ -90,7 +90,7 @@ header::after {
 
 #fetch_input {
     position: absolute;
-    height: 10px;
+    height: 30px;
     width: calc(100% - 610px);
     top: 4px;
     right: 475px;
